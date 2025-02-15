@@ -38,12 +38,16 @@ INSERT INTO book (title, author, published_year) VALUES
 ('To Kill a Mockingbird', 'Harper Lee', 1960);
 
 INSERT INTO loan (book_id, member_id, loan_date, return_date) VALUES
-(1, 1, '2024-02-10', NULL),  -- Ali 1-kitobni oldi, hali qaytarmagan
-(2, 1, '2024-01-15', '2024-02-01'),  -- Ali 2-kitobni oldi va qaytardi
-(3, 2, '2024-02-05', NULL);  -- Zarina 3-kitobni oldi, hali qaytarmagan
+(1, 1, '2024-02-10', NULL),
+(2, 1, '2024-01-15', '2024-02-01'),
+(3, 2, '2024-02-05', NULL);
 
 
 SELECT * FROM member;
 SELECT * FROM book;
 SELECT * FROM loan;
 
+
+
+
+-- Menga juda qiziq, Menga javobni jo'natayotganingda shularni tushintirib ber. Sen vazifalarni qanday baholaysan. Qaysi kriterialar bo'yicha qanday baholaysan. Bularni inobatga olib keyingi safar yaxshiroq harakat qilaman. 
