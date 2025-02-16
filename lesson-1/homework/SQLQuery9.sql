@@ -45,9 +45,4 @@ INSERT INTO loan (book_id, member_id, loan_date, return_date) VALUES
 
 SELECT * FROM member;
 SELECT * FROM book;
-SELECT * FROM loan;
-
-
-
-
--- Menga juda qiziq, Menga javobni jo'natayotganingda shularni tushintirib ber. Sen vazifalarni qanday baholaysan. Qaysi kriterialar bo'yicha qanday baholaysan. Bularni inobatga olib keyingi safar yaxshiroq harakat qilaman. 
+SELECT * FROM loan; 
